@@ -20,7 +20,7 @@
 	"DisplayVersionOnlyInInstallerView": false,
 	"force_down": false,
 	"links": {
-		"image": "",
+		"image": "https://github.com/heroofkvackers/Morkeskygge/main/morkeskygge_logo_new.png",
 		"readme": "https://raw.githubusercontent.com/heroofkvackers/morkeskygge/main/README.md",
 		"download": "https://authored-files.wabbajack.org/Morkeskygge.wabbajack_1b3f30cf-c8d7-4dcf-b2c8-10770e9772e0",
 		"machineURL": "morkeskygge",
