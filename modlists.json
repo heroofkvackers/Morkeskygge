@@ -29,12 +29,12 @@
 		"nexusCollection": null
 	},
 	"download_metadata": {
-		"Hash": "4ThN9PDR58Q=",
-		"Size": 2068980212,
+		"Hash": "hYbnXM4he8M=",
+		"Size": 2068979923,
 		"NumberOfArchives": 723,
 		"SizeOfArchives": 92271978040,
-		"NumberOfInstalledFiles": 222415,
-		"SizeOfInstalledFiles": 157851819039,
+		"NumberOfInstalledFiles": 222414,
+		"SizeOfInstalledFiles": 157851817036,
 		"TotalSize": 250123797079
 	},
 	"version": "1.0.0",
