@@ -22,8 +22,6 @@ The world of Morkeskygge is not a forgiving one. You will find that some dungeon
 
 Vanilla bosses are now a force to be reckoned with, and are no longer the unremarkable, tactless fights they used to be. No longer can you just "whale" on these bosses and shrug off their attacks at level 20 - courtesy of Skyrim Revamped. You will need to be more mindful and patient when it comes to fighting these overhauled bosses. 
 
-When you die, do not expect your gear to follow you to death. You will be needing to retrieve it
-
 Remember that Morkeskygge, though as difficult as it may be, rewards you for the path you pave. 
 
 What to expect in future releases:
