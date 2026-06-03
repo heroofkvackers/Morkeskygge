@@ -32,8 +32,8 @@ What to expect in future releases:
 - Bug fixes (this is what beta-testing is for :>)
 - More varieties of unique weapons and armors.
 - Hardcore save game system.
-- Refinement of environments
-- 
+- Further refinement of environments to give them a more "Victorian" feel. 
+
 Known Issues in 1.0.0 beta:   
 - Some landscape seams here and there. We are currently looking into it.
 - QuickLoot IE menus not always showing up when you hover over a body. This may just be a small glitch, but should it become a bigger problem, there shall be a remedy for it. 
