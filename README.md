@@ -35,8 +35,8 @@ What to expect in future releases:
 
 Known Issues:   
 - Some landscape seams here and there. We are currently looking into it.
-- 
-
+- QuickLoot IE menus not always showing up when you hover over a body. This may just be a small glitch, but should it become a bigger problem, there shall be a remedy for it. 
+-
 # MCM
 You may find that some mods in the MCM menus may need some adjusting from the very beginning:
 - Dark Souls Combat has a dodge key already set up. Disable the box for dodge. You will be using DMCO in its place.
