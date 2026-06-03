@@ -33,10 +33,11 @@ What to expect in future releases:
 - More varieties of unique weapons and armors.
 - Hardcore save game system.
 
-Known Issues:   
+Known Issues in 1.0.0 beta:   
 - Some landscape seams here and there. We are currently looking into it.
 - QuickLoot IE menus not always showing up when you hover over a body. This may just be a small glitch, but should it become a bigger problem, there shall be a remedy for it. 
--
+- Holding Left Shift while attacking causes your character to play a strange in-place sword-swinging animation. To fix this, try not to hold down Left Shift when attacking. Dodge to break your character out of the loop. The base animation should play normally then. 
+
 # MCM
 You may find that some mods in the MCM menus may need some adjusting from the very beginning:
 - Dark Souls Combat has a dodge key already set up. Disable the box for dodge. You will be using DMCO in its place.
