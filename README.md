@@ -18,9 +18,11 @@ Morkeskygge is not for the faint of heart. If you do not like Souls or Souls-lik
 # Installation
   You will find this modlist on Wabbajack listed as "Morkeskygge BETA" (in current stage). Hit the download button after you access the page. Should you have Nexus Premium, just sit back, grab a snack or two, and wait. 
 # Important Notes
-The world of Morkeskygge is not a forgiving world. You will find that some dungeons will be a bit difficult for you compared to the vanilla game, and should you find yourself at a disadvantage, nothing is stopping you from obtaining experience from a different dungeon. But if you wish to truly risk yourself in these dungeons, then you will find your experiences in Dark Souls to be helpful in these scenarios. Just know that your timing and preparation is key to your survival.
+The world of Morkeskygge is not a forgiving one. You will find that some dungeons will be a bit difficult for you compared to the vanilla game, and should you find yourself at a disadvantage, nothing is stopping you from obtaining experience from a different dungeon. But if you wish to truly risk yourself in these dungeons, then you will find your experiences in Dark Souls to be helpful in these scenarios. Just know that your timing and preparation is key to your survival.
 
 Vanilla bosses are now a force to be reckoned with, and are no longer the unremarkable, tactless fights they used to be. No longer can you just "whale" on these bosses and shrug off their attacks at level 20 - courtesy of Skyrim Revamped. You will need to be more mindful and patient when it comes to fighting these overhauled bosses. 
+
+When you die, do not expect your gear to follow you to death. You will be needing to retrieve it
 
 Remember that Morkeskygge, though as difficult as it may be, rewards you for the path you pave. 
 
@@ -30,9 +32,12 @@ What to expect in future releases:
 - Controller support.
 - Extra weapon variations.
 - Bug fixes (this is what beta-testing is for :>)
-- One-Tap Power Attacks.
-    - Due to limited movesets, power attacks are currently only done via vanilla means, which means you'll be doing power attacks by holding the attack button on your mouse.
-- More varieties of unique weapons and armors. 
+- More varieties of unique weapons and armors.
+- Hardcore save game system.
+
+Known Issues:   
+- Some landscape seams here and there. We are currently looking into it.
+- 
 
 # MCM
 You may find that some mods in the MCM menus may need some adjusting from the very beginning:
