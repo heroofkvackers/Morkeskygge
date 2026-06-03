@@ -5,7 +5,7 @@ Morkeskygge is a Wabbajack modlist that aims to bring the essence of the Souls g
 
 When you stare into the Void, the Void stares back at you.
 
-Morkeskygge is not for the faint of heart. If you do not like Souls or Souls-like games, this is not the modlist for you.  This is a beta release, so certain mods will come and go. With the current 1.0.0 version, you are merely getting a morsel of what's to come...
+Morkeskygge is not for the faint of heart. If you do not like Souls or Souls-like games, this is not the modlist for you.  This is a beta release, so certain mods will come and go as the modlist evolves. With the current 1.0.0 version, you are merely getting a morsel of what's to come...
 # Requirements
 - Minimum spec requirements - 
   - An 11th generation Intel CPU, or an AMD Ryzen 5000 series - and an RTX 2080 or equivalent.
