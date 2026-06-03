@@ -22,9 +22,21 @@ The world of Morkeskygge is not a forgiving world. You will find that some dunge
 
 Vanilla bosses are now a force to be reckoned with, and are no longer the unremarkable, tactless fights they used to be. No longer can you just "whale" on these bosses and shrug off their attacks at level 20 - courtesy of Skyrim Revamped. You will need to be more mindful and patient when it comes to fighting these overhauled bosses. 
 
+Remember that Morkeskygge, though as difficult as it may be, rewards you for the path you pave. 
+
 What to expect in future releases:
 - More unique moveset variations.
-- Overworld boss fights. 
-- Controller support
+- Overworld non-dragon boss fights. 
+- Controller support.
 - Extra weapon variations.
 - Bug fixes (this is what beta-testing is for :>)
+- One-Tap Power Attacks.
+    - Due to limited movesets, power attacks are currently only done via vanilla means, which means you'll be doing power attacks by holding the attack button on your mouse.
+- More varieties of unique weapons and armors. 
+
+# MCM
+You may find that some mods in the MCM menus may need some adjusting from the very beginning:
+- Dark Souls Combat has a dodge key already set up. Disable the box for dodge. You will be using DMCO in its place.
+    - DMCO's dodge key is set to Left Alt as default.  
+- Dual Wield Parrying has V as the default key. I personally use mouse wheel for dual wield parrying, especially when I'm playing spellsword.
+- Make sure SmoothCam has its dialogue camera disabled. Improved Alternate Conversation Camera already does it for you. 
