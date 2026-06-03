@@ -28,4 +28,3 @@ What to expect in future releases:
 - Controller support
 - Extra weapon variations.
 - Bug fixes (this is what beta-testing is for :>)
-- 
