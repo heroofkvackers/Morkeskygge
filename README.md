@@ -32,7 +32,8 @@ What to expect in future releases:
 - Bug fixes (this is what beta-testing is for :>)
 - More varieties of unique weapons and armors.
 - Hardcore save game system.
-- Further refinement of environments to give them a more "Victorian" feel. 
+- Further refinement of environments to give them a more "Victorian" feel.
+- Performance tweaks.
 
 Known Issues in 1.0.0 beta:   
 - Some landscape seams here and there. We are currently looking into it.
