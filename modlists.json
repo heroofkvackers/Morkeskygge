@@ -29,13 +29,13 @@
 		"nexusCollection": null
 	},
 	"download_metadata": {
-		"Hash": "NA7x9WdjuHM=",
-		"Size": 2068979807,
-		"NumberOfArchives": 723,
-		"SizeOfArchives": 92271978040,
-		"NumberOfInstalledFiles": 222414,
-		"SizeOfInstalledFiles": 157851817036,
-		"TotalSize": 250123795076
+		"Hash": "v970JBHfR9M=",
+		"Size": 2069981118,
+		"NumberOfArchives": 753,
+		"SizeOfArchives": 96259676587,
+		"NumberOfInstalledFiles": 243465,
+		"SizeOfInstalledFiles": 163508901479,
+		"TotalSize": 259768578066
 	},
 	"version": "1.0.0",
 	"repository": ""
