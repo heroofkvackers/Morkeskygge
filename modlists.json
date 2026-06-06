@@ -1,43 +1,50 @@
 [
   {
-	"title": "Morkeskygge",
-	"description": "A gritty, dark fantasy overhaul that aims to bring the essence of the Souls games into Skyrim Anniversary Edition - more notably, Bloodborne. Be warned - this modlist is not for the faint of heart. Are you ready for Bloodborne on PC?",
-	"author": "Seiji",
-	"maintainers": [
-		"github/heroofkvackers"
-	],
-	"game": "skyrimspecialedition",
-	"official": false,
-	"tags": [
-		"Official",
-		"Creation Club",
-		"Anniversary Edition",
-		"Steam"
-	],
-	"nsfw": false,
-	"utility_list": false,
-	"image_contains_title": true,
-	"DisplayVersionOnlyInInstallerView": false,
-	"force_down": false,
-	"links": {
-		"image": "https://raw.githubusercontent.com/heroofkvackers/Morkeskygge/main/morkeskygge_logo_new.png",
-		"readme": "https://raw.githubusercontent.com/heroofkvackers/morkeskygge/main/README.md",
-		"download": "https://authored-files.wabbajack.org/Morkeskygge.wabbajack_89293b45-d0c2-495b-bf1a-4ac0a1c72c29",
-		"machineURL": "morkeskygge",
-		"discordURL": "https://discord.gg/X9dzSjRjSr",
-		"websiteURL": "",
-		"nexusCollection": null
-	},
-	"download_metadata": {
-		"Hash": "+lRHGIazU30=",
-		"Size": 2069981220,
-		"NumberOfArchives": 753,
-		"SizeOfArchives": 96259676587,
-		"NumberOfInstalledFiles": 243465,
-		"SizeOfInstalledFiles": 163508901479,
-		"TotalSize": 259768578066
-	},
-	"version": "1.0.0",
-	"repository": ""
-}
-  ]
+    "title": "Morkeskygge",
+    "description": "A gritty, dark fantasy overhaul that aims to bring the essence of the Souls games into Skyrim Anniversary Edition - more notably, Bloodborne. Be warned - this modlist is not for the faint of heart. Are you ready for Bloodborne on PC?",
+    "author": "Seiji",
+    "maintainers": [
+      "github/heroofkvackers"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Official",
+      "Creation Club",
+      "Anniversary Edition",
+      "Steam"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/heroofkvackers/Morkeskygge/main/morkeskygge_logo_new.png",
+      "readme": "https://raw.githubusercontent.com/heroofkvackers/morkeskygge/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Morkeskygge.wabbajack_89293b45-d0c2-495b-bf1a-4ac0a1c72c29",
+      "machineURL": "morkeskygge",
+      "discordURL": "https://discord.gg/X9dzSjRjSr",
+      "websiteURL": "",
+      "nexusCollection": {
+        "collectionId": "458861",
+        "slug": "lfei81",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
+    },
+    "download_metadata": {
+      "Hash": "+lRHGIazU30=",
+      "Size": 2069981220,
+      "NumberOfArchives": 753,
+      "SizeOfArchives": 96259676587,
+      "NumberOfInstalledFiles": 243465,
+      "SizeOfInstalledFiles": 163508901479,
+      "TotalSize": 259768578066
+    },
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
+  }
+]
