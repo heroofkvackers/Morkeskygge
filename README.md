@@ -35,6 +35,7 @@ What to expect in future releases:
 - Further refinement of environments to give them a more "Victorian" feel.
 - Performance tweaks.
 - An Estus Flask mechanic.
+- Balance tweaks. 
 
 Known Issues in 1.0.0 beta:   
 - Some landscape seams here and there. We are currently looking into it.
