@@ -25,7 +25,7 @@ Vanilla bosses are now a force to be reckoned with, and are no longer the unrema
 Remember that Morkeskygge, though as difficult as it may be, rewards you for the path you pave. 
 
 What to expect in future releases:
-- More unique moveset variations.
+- Stances.
 - Overworld non-dragon boss fights. 
 - Controller support.
 - Extra weapon variations.
@@ -34,6 +34,7 @@ What to expect in future releases:
 - Hardcore save game system.
 - Further refinement of environments to give them a more "Victorian" feel.
 - Performance tweaks.
+- An Estus Flask mechanic.
 
 Known Issues in 1.0.0 beta:   
 - Some landscape seams here and there. We are currently looking into it.
