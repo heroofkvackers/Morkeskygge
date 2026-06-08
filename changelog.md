@@ -21,7 +21,7 @@
   - Modern Wait Menu updated.
   - Mountain LOD Helper removed due to conflicts with Bonfires of Skyrim.
   - Random Death Animation added.
-  - xLODGen updated.
+  - xLODGen Output updated.
   - TexGen Output updated.
   - DynDOLOD Output updated.
  
