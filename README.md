@@ -45,6 +45,7 @@ Known Issues in 1.0.0 beta:
 
 # MCM
 You may find that some mods in the MCM menus may need some adjusting from the very beginning:
+
 ~~- Dark Souls Combat has a dodge key already set up. Disable the box for dodge. You will be using DMCO in its place.~~ Mod REMOVED as of 6/8/2026 update.
 - Dual Wield Parrying has V as the default block key. I personally use mouse wheel press for dual wield parrying, especially when I'm playing spellsword.
 - Make sure SmoothCam has its dialogue camera disabled. Improved Alternate Conversation Camera already does it for you. 
