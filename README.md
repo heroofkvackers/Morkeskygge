@@ -38,11 +38,6 @@ What to expect in future releases:
 - Balance tweaks.
 - One-tap power attacks. 
 
-Known Issues in 1.0.0 beta:   
-- Some landscape seams here and there. We are currently looking into it.
-- QuickLoot IE menus not always showing up when you hover over a body. This may just be a small glitch, but should it become a bigger problem, there shall be a remedy for it. 
-- Holding Left Shift while attacking causes your character to play a strange in-place sword-swinging animation. To fix this, try not to hold down Left Shift when attacking. Dodge to break your character out of the loop. The base animation should play normally then. Otherwise, we are looking into the issue so holding down Left Shift doesn't result in the animation playing. 
-
 # MCM
 You may find that some mods in the MCM menus may need some adjusting from the very beginning:
 
