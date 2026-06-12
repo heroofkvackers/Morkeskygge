@@ -37,6 +37,7 @@ What to expect in future releases:
 - An Estus Flask mechanic.
 - Balance tweaks.
 - One-tap power attacks. 
+- Ability to dual-wield two-handed weapons, with unique movesets.
 
 # MCM
 You may find that some mods in the MCM menus may need some adjusting from the very beginning:
