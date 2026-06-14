@@ -1,3 +1,41 @@
+# Version 1.0.1 beta 6/13/2026 Update  
+- Gol Mora and its requirements. (landscape rework)
+     - Incompatible mod Enhanced Rocks and Mountains removed.
+     - Animated Icebergs added as requirement. 
+- SoulsyHUD and my personal Bloodborne preset added.
+- Repeater Crossbows added.
+- Classic Sprinting Redone added.
+- Equipment now actually breaking when completely used up. This encourages travel, regular maintenance of your chosen gear, and adaptability in the environment beyond yourself. If you break your armor and/or weapon, it is solely your responsibility to fix them to use them again, or hope you find a weapon nearby.
+- SKSE Menu Framework updated.
+- Lost Heritage - Bloodborne-inspired Quest added.
+- Simple Offense Suppression added, with MCM. (Turn the option to "hurt innocents" ON when you're on an active bounty. Try not to hit non-targets in the meanwhile.)
+- Dirt and Blood added. (Disable dirt.)
+- Removed Object Manipulation Overhaul.
+- BA Bard Songs added.
+- Northern Roads removed in favor of Lux Via.
+	-I believe there are too many patches to consider to leave Northern Roads in for now.
+- Scribers added. Spawns in Apocrypha.
+- SkyPatcher AE updated.
+- Save Only on Rest added.
+- Elden Rim Animation pack replaced with Nordic Animation Pack.
+- Inquisitor Armor added.
+- Dark Souls Movement and Stamina Regen added. This should have been added in 1.0.0 to begin with.
+- Majestic Dragons added, Glorious Edition.
+- Stagger Effect Fix updated.
+- Description Framework added, along with applicable patches.
+- Inquisitor x Warlock added. Default key to activate is Right Alt.
+- CS Particle Patch removed. (seems to be an outdated feature.)
+- Increased Stamina Regen in Combat added. (The Dark Souls version was not giving enough stamina regen.)
+- Scriptfree Stagger Limit - Prevent Staggerlock added for balancing reasons.
+- iWant Widgets added.
+	- Requirement for Victory Screen and Fanfare, which is added as well.
+- Game Over Screen added.
+ - PBR textures for some armors fixed. Please regenerate PGPatcher after you update.
+
+
+
+
+
 # Version 1.0.0 beta 6/8/2026 Update
   - Paarthurnax Quest Expansion added.
   - Oathvein Racemenu Patch applied.
