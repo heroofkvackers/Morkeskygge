@@ -33,9 +33,6 @@
  - PBR textures for some armors fixed. Please regenerate PGPatcher after you update.
 
 
-
-
-
 # Version 1.0.0 beta 6/8/2026 Update
   - Paarthurnax Quest Expansion added.
   - Oathvein Racemenu Patch applied.
