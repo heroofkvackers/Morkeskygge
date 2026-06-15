@@ -36,7 +36,6 @@
 
 - Player shadows flashing, though it could be due to my hardware limitations.
 - Oathvein UI elements are overlapping with SoulsyHud's elements. I may consider a change in UI to fix this, or find some way to relocate Oathvein's elements when I have time. 
-- You might stumble upon flashing LODs. I can release an attempted hotfix when I have time. 
 
 If the modlist proves a bit difficult, you may drop it to Apprentice or even Novice in the game settings. I even personally find it difficult enough to play it on Adept. You can get 2-shotted and sent straight to the Main Menu.
 # Version 1.0.0 beta 6/8/2026 Update
