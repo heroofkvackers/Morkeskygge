@@ -1,34 +1,34 @@
 # Version 1.0.2 beta 6/20/2026 Update
 
--Gamepad ++ added for Complete Controller Setup addition.
--New Game Plus added.
--Some unique weapons will have unique meshes.
--Action-based Projectiles - Dodgeable Ranged Attacks added (balance tweak)
--Skyrim Unleveled added.(balance tweak)
--Spiders SE added (ARACHNOPHOBES BEWARE)
--Grave Gargoyles added.
--Wait Your Turn added. (balance tweak)
--Strike Obstruction Systems - Combat Blocking Overhaul added. (balance tweak)
--Stamina and Magicka Regen Fix added. (balance tweak)
--Input Manager added.
--Prisma UI added.
--New Creature Animations - Falmer, Spiders, Gargoyle, Werewolf, Centurion added.
-	-Delete falmer.ini from within New Creature Animations - Falmer's archive to get rid of the gimmicky invisibility spells they have.
--SCAR AE updated to v2.
--Racemenu Enhancer added.
+- Gamepad ++ added for Complete Controller Setup addition.
+- New Game Plus added.
+- Some unique weapons will have unique meshes.
+- Action-based Projectiles - Dodgeable Ranged Attacks added (balance tweak)
+- Skyrim Unleveled added.(balance tweak)
+- Spiders SE added (ARACHNOPHOBES BEWARE)
+- Grave Gargoyles added.
+- Wait Your Turn added. (balance tweak)
+- Strike Obstruction Systems - Combat Blocking Overhaul added. (balance tweak)
+- Stamina and Magicka Regen Fix added. (balance tweak)
+- Input Manager added.
+- Prisma UI added.
+- New Creature Animations - Falmer, Spiders, Gargoyle, Werewolf, Centurion added.
+	- Delete falmer.ini from within New Creature Animations - Falmer's archive to get rid of the gimmicky invisibility spells they have.
+- SCAR AE updated to v2.
+- Racemenu Enhancer added.
 	- Fuzz's Legally Intelligible Core Kit added.
 	- ShowRaceMenu NG added.
--Combat Music Fix NG added.
--State Behavior Framework added.
--ClefJ's Dawnstar replaced by Cities of the North Dawnstar, plus applicable patches. 
+- Combat Music Fix NG added.
+- State Behavior Framework added.
+- ClefJ's Dawnstar replaced by Cities of the North Dawnstar, plus applicable patches. 
 
 
 Armors Added:
--Master Thief Armor
--Wind Ruler Armor
--Northern God Armor
--Vampire Armor Expansion
--League of Assassins Armor added.
+- Master Thief Armor
+- Wind Ruler Armor
+- Northern God Armor
+- Vampire Armor Expansion
+- League of Assassins Armor added.
 
 
 
