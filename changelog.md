@@ -1,6 +1,5 @@
 # Version 1.0.2 beta 6/20/2026 Update
 
-- Gamepad ++ added for Complete Controller Setup addition.
 - New Game Plus added.
 - Some unique weapons will have unique meshes.
 - Action-based Projectiles - Dodgeable Ranged Attacks added (balance tweak)
