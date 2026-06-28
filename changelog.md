@@ -24,10 +24,6 @@ Armors added:
 - Gryphonknight Regalia - Breton Knight Armor added, with HDT patch.
 
 
-
-
-
-
 # Version 1.0.2 beta 6/20/2026 Update
 
 - New Game Plus added.
