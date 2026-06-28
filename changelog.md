@@ -1,3 +1,33 @@
+# Version 1.0.3 beta 6/27/2026 Update
+
+- Actor Value Generator added.
+	- Lexicon SKSE added.
+- Prisma Mod Config Manager added.
+- NPCs Name Distributor added.
+- Tamrielic Names added.
+- Scriptfree Behavior Staggerlock removed in favor of Modern Stagger Lock AE.
+- Dark Brotherhood for Good Guys added.
+- Soulsborne Combat Music removed due to constant repetition. It got tiring to hear Slave Knight Gael's theme on repeat when fighting trolls, for example. Most combat tracks have now been replaced by Nyghtfall's for the time-being. Make sure the plugin for Nyghtfall is loaded after any plugins that may alter vanilla music.
+- Ruins Across Skyrim AIO added.
+- Sink or Swim NG added.
+- Underwater Combat MCO added.
+- Paulicus Poison Block Updated added. (additional balance tweak missing from last 1.0.2 update.
+	- It does not make sense for a successful block to still poison you unless it's magical poison. No more dying in a few hits despite blocking the attack.
+Unique movesets added for ALL weapon types, including Animated Armoury weapons. Stances come later.
+-Animated Armoury Precision Patch Complete added.
+
+Followers added: Lucien, Gore, Kaidan.
+- Appropriate patches for these followers considered. More followers coming soon.
+
+Armors added:
+- Thalmor Ceykynd Armors with HDT patch.
+- Gryphonknight Regalia - Breton Knight Armor added, with HDT patch.
+
+
+
+
+
+
 # Version 1.0.2 beta 6/20/2026 Update
 
 - New Game Plus added.
