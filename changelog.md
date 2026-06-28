@@ -11,7 +11,7 @@
 - Ruins Across Skyrim AIO added.
 - Sink or Swim NG added.
 - Underwater Combat MCO added.
-- Paulicus Poison Block Updated added. (additional balance tweak missing from last 1.0.2 update.
+- Paulicus Poison Block Updated added. (additional balance tweak missing from last 1.0.2 update.)
 	- It does not make sense for a successful block to still poison you unless it's magical poison. No more dying in a few hits despite blocking the attack.
 Unique movesets added for ALL weapon types, including Animated Armoury weapons. Stances come later.
 -Animated Armoury Precision Patch Complete added.
