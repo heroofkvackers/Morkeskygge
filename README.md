@@ -1,7 +1,7 @@
 # Morkeskygge
 A grim and dark fantasy overhaul of Skyrim Anniversary Edition inspired by the Souls games, more notably taking inspiration from Bloodborne.
 
-Current version: 1.0.3
+Current version: 1.0.4
 # Overview
 Morkeskygge is a Wabbajack modlist that aims to bring the essence of the Souls games into Skyrim Anniversary Edition 1.6.1170. It features an overhauled combat system, a dark revoiced overworld full of hidden dangers and gnarly sights, horrific monsters beyond your comprehension, armor and weapon degradation mechanics, scattered bonfires, a respawn system, and more. Rise beyond your mundane origins, and become the Dragonborn you were always meant to be... or not and carve your own destiny. Are you going to be the villain - a scourge to the citizens of Skyrim? Or are you going to be a hero to all, remembered by song and praise? Make your choices, but know that your trek through the dark world of Morkeskygge will not be an easy one, no matter which path you choose. 
 
