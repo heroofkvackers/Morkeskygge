@@ -1,3 +1,23 @@
+# Version 1.0.4 beta 7/11/2026 Update (Minor feature update)
+
+
+- ADXP MCO Attack Data Transition Fix added.
+- DMCO Plugin Fixes added.
+- s6o6t LORE - Dark Anchors Ruins and Dolmens AE added.
+- s6o6t LORE - Mundus Stones added.
+- Code Vein Level Up Sound added to replace the jarring vanilla chant.
+- Animated Armoury patches for Vigilant and DaC0da added.
+- The Truth of the Old Cathedral added. (Thank you, Aaron Putty, for the suggestion.)
+- Papyrus Extender updated.
+- No Collision Camera added.
+- Auto Audio Switch added.
+- Racemenu Enhancer updated.
+- Audio Occlusion added.
+
+I do not think LODGen, TexGen, and DynDOLOD need an update, but please let me know if there are any issues. For now, you may regenerate your own outputs -- it would likely not cause any issues. 
+
+I do apologize for the lack of more content. More mods may come by once I fix the way Wabbajack recognizes version numbers. 
+
 # Version 1.0.3 beta 6/27/2026 Update
 
 - Actor Value Generator added.
