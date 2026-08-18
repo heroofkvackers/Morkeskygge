@@ -29,8 +29,7 @@ ENB Preset for Effects 11: Somber Phantasy (included)
 
 The stable Nexus version of Community Shaders comes with this release. A new optional Jiaye-based preset is being worked on. It will be released on our Discord server. 
 
-
-
+Nexus Collection version updated. 
 
 # Version 1.0.4 beta 7/11/2026 Update (Minor feature update)
 
