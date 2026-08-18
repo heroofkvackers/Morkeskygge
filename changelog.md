@@ -1,3 +1,37 @@
+# Version 1.0.5 beta 8/17/2026 Update (Performance and Quality of Life Additions)
+
+- Simply The Best added.
+	-Throwable Weapons SKSE added.
+- SoulsyHUD removed for the time-being.
+- Accuracy (Localized Combat Damage) added.
+- Core Impact Framework added.
+- State Behavior Framework updated.
+- Native Mesh Light Flicker Fix added.
+- Elven Armor Expansion added.
+- Smooth Terrain added.
+- Cached Recursive Directory Walk added (performance mod)
+- Absorb Spell XP Fix added.
+- Texture Downscaler - Performance Preset added.
+- Recast added.
+- The Pathseeker HDT SMP Armor Set added.
+	- As a vanilla armor replacer.
+- Particle Light Editor added.
+- SKSE Menu Framework updated.
+- Variadic Collision Dynamics added.
+- MCM Unlocked added.
+- Paulicus Poison Blocking Updated replaced by Unpoisoned Blocking by Seb.
+- Death Drop Overhaul updated.
+- Accurate Projectile Collision added.
+- Ricochet - Arrow Physics Framework added.
+- Horizon Fix added.
+
+ENB Preset for Effects 11: Somber Phantasy (included)
+
+The stable Nexus version of Community Shaders comes with this release. A new optional Jiaye-based preset is being worked on. It will be released on our Discord server. 
+
+
+
+
 # Version 1.0.4 beta 7/11/2026 Update (Minor feature update)
 
 
