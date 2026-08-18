@@ -1,7 +1,7 @@
 # Version 1.0.5 beta 8/17/2026 Update (Performance and Quality of Life Additions)
 
 - Simply The Best added.
-	-Throwable Weapons SKSE added.
+	- Throwable Weapons SKSE added.
 - SoulsyHUD removed for the time-being.
 - Accuracy (Localized Combat Damage) added.
 - Core Impact Framework added.
