@@ -22,7 +22,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/heroofkvackers/Morkeskygge/main/morkeskygge_logo_new.webp",
       "readme": "https://raw.githubusercontent.com/heroofkvackers/morkeskygge/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Morkeskygge.wabbajack_a3edfe8b-9bd4-4c91-82a0-d627ca1895ee",
+      "download": "https://authored-files.wabbajack.org/Morkeskygge.wabbajack_8f6d3779-d060-41f8-889a-99eacbdb87fc",
       "machineURL": "Morkeskygge",
       "discordURL": "https://discord.gg/X9dzSjRjSr",
       "websiteURL": "",
@@ -34,17 +34,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "fEC9ZmBzQqU=",
-      "Size": 1075642020,
-      "NumberOfArchives": 916,
-      "SizeOfArchives": 107373975702,
-      "NumberOfInstalledFiles": 253173,
-      "SizeOfInstalledFiles": 184339287297,
-      "TotalSize": 291713262999
+      "Hash": "QXN2ZCVhVdw=",
+      "Size": 1076334471,
+      "NumberOfArchives": 942,
+      "SizeOfArchives": 107696923953,
+      "NumberOfInstalledFiles": 253466,
+      "SizeOfInstalledFiles": 185269101816,
+      "TotalSize": 292966025769
     },
-    "version": "1.0.4",
+    "version": "1.0.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-07-11T22:35:56.2841622Z",
+    "dateUpdated": "2026-08-18T02:13:09.6997533Z",
     "repositoryName": "Morkeskygge-BETA"
   }
 ]
