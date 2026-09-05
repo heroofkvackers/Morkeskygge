@@ -1,3 +1,33 @@
+# Version 1.0.6 beta 9/5/2026 Update 
+
+- Forsworn Brutality added.
+- Skyrim Bandit Expansion added.
+- Unmarked Locations Pack - All in One added.
+	- Should have been added a while ago, but I received some time to scour through Nexus again.
+- Snozz's Resource Pack added for potential mods in the future.
+- Hammet's Dungeon Trilogy Pack added.
+	- Packs I, II, and III are installed together.
+- GC Bug Fix added.
+- Lux - Fantabulous Lighting Templates added, for requirement of Hammet Dungeon III Lux patch.
+- Thalmor Investigator Armor HDT-SMP added.
+- Immersive Ancient Potions added.
+- Palaces and Castles Enhanced added.
+- Spider Eggs and Sacs Replacer added - Mihail's Shards of Immersion.
+- Skyrim Weapons Expansion added.
+- (SIGNIFICANT ADDITION)  Level Matters added.
+	- Deals with scaling of enemies for grander boss battles. In user testing phase, may or may not remain in future releases.
+- Enhanced Death Cam added.
+- Effects 11 removed due to DMCA accusations.
+- EX Damage Begone added.
+- CEC Resource added.
+- Uncap NPC Level added.
+- Level Matters added.
+- DynDOLOD and LODGen Outputs updated.
+- STB Features added.
+
+EXTREMELY IMPORTANT - Please make sure your copy of Skyrim - Misc.bsa, and Skyrim-Voices_en0.bsa are the LATEST versions. (1.7.99). The rest should be downgraded to 1.6.1170. These would be the files in the Game Root directory that comes with thew modlist. 
+
+
 # Version 1.0.5 beta 8/17/2026 Update (Performance and Quality of Life Additions)
 
 - Simply The Best added.
