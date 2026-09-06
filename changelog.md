@@ -25,7 +25,7 @@
 - DynDOLOD and LODGen Outputs updated.
 - STB Features added.
 
-EXTREMELY IMPORTANT - Please make sure your copy of Skyrim - Misc.bsa, and Skyrim-Voices_en0.bsa are the LATEST versions. (1.7.99). The rest should be downgraded to 1.6.1170. These would be the files in the Game Root directory that comes with thew modlist. 
+EXTREMELY IMPORTANT - Please make sure your copy of Skyrim - Misc.bsa, and Skyrim-Voices_en0.bsa are the LATEST versions. (1.7.99). The rest should be downgraded to 1.6.1170. These would be the files in the Game Root directory that comes with the modlist. 
 
 
 # Version 1.0.5 beta 8/17/2026 Update (Performance and Quality of Life Additions)
