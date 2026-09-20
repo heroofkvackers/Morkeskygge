@@ -65,7 +65,7 @@ EXTREMELY IMPORTANT NOTICE. PLEASE READ: You may find that the base Skyrim game 
 
 Here is the link should you find yourself needing to downgrade your base game: https://www.nexusmods.com/site/mods/2188
 
-Lastly, have fun. We are sure you will enjoy the new content. 
+Lastly, have fun. We are sure you will enjoy the new content. The Nexus version has also been uploaded and updated. 
 
 
 
