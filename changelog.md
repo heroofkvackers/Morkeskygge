@@ -9,7 +9,7 @@
 - ISL Helper SKSE added.
 - Ricochet Arrow Physics Framework updated due to possible crash cause from previous version in  1.0.6.
 - (MAJOR TEXTURE UPDATE) Faultier's PBR Skyrim updated.
-- All base texture PBR mods have been bundled and moved to the appropriate left-side tab in MO2.
+- All base texture PBR mods have been bundled and moved to the appropriate left-side separator in MO2.
 - Costume Expansion Framework added.
 - DBVO updated to DBVO 2.
 	- Due to the structure of these mods, it is encouraged that you find your own voice pack to use/add, as some share the same plugins as each other for whatever reason it may be, hence the notable lack of new player voices in the Wabbajack list. Please read carefully what each voice pack adds and does, and replace/add accordingly to your heart's content.
