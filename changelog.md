@@ -4,7 +4,7 @@
 - Daedric Armor Redone - Replacer added.
 - Menu Studio added.
 - Fitting Room - ESO Style Transmog added.
-- Unlock dyes as you go along your journey in Morkeskygge.
+	- Unlock dyes as you go along your journey in Morkeskygge.
 - FLICK for Skyrim 1.6+ updated.
 - ISL Helper SKSE added.
 - Ricochet Arrow Physics Framework updated due to possible crash cause from previous version in  1.0.6.
