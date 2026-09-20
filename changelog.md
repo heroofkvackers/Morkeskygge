@@ -1,3 +1,74 @@
+# Version 1.0.7 beta 9/20/2026 Update
+
+- Water Collision Crash Fix added.
+- Daedric Armor Redone - Replacer added.
+- Menu Studio added.
+- Fitting Room - ESO Style Transmog added.
+- Unlock dyes as you go along your journey in Morkeskygge.
+- FLICK for Skyrim 1.6+ updated.
+- ISL Helper SKSE added.
+- Ricochet Arrow Physics Framework updated due to possible crash cause from previous version in  1.0.6.
+- (MAJOR TEXTURE UPDATE) Faultier's PBR Skyrim updated.
+- All base texture PBR mods have been bundled and moved to the appropriate left-side tab in MO2.
+- Costume Expansion Framework added.
+- DBVO updated to DBVO 2.
+	- Due to the structure of these mods, it is encouraged that you find your own voice pack to use/add, as some share the same plugins as each other for whatever reason it may be, hence the notable lack of new player voices in the Wabbajack list. Please read carefully what each voice pack adds and does, and replace/add accordingly to your heart's content.
+- (NEW FOLLOWER) Taliesin - Thalmor's Shadow added.
+	- Aurea Umbra is added to overhaul Taliesin's appearance.
+- (NEW FOLLOWER) Kaiden Revoiced - Community Expansion added.
+	- Kaiden's appearance is overhauled with Akai Bushi.
+	- His addition comes with a reference to a certain NPC you may encounter in Bloodborne.
+- Denizens of Morthal added.
+- More to Say added.
+- Missives - Worldspace Additions updated to include Beyond Reach.
+- Eastern Vagabond Armor added.
+	- Good armor to give to Kaidan.
+- Portal Strict Lights Patcher Framework AE added.
+	- Prevents many "Shadow Scene Node" crashes. Important bug fix addition.
+- Cinematic Conversation Camera added, replacing Improved Alternate Conversation Camera.
+- True Light is added to replace Lux. Too many patches to consider.
+- Open Animation Replacer updated.
+- New Creature Animations added:
+	- Lurker
+	- Giant
+	- Troll
+	- Riekling
+NPC Appearance Overhauls:
+- Greybeards
+- Morthal
+- Godsblood - An Ebony PBR Overhaul added, for more elegant ebony armor pieces.
+- Vampire Lord Overhaul added.
+- KREL Euphonic Leveling added.
+	- Only for when you enter the skill menu.
+
+NEW QUEST EXPANSIONS - Say No to Daedra Edition (these should have been added to begin with. My apologies.)
+
+- Nilheim
+	- Are you tired of feeling like your character seemed too believing in the NPC's story in the vanilla game? This is the solution.
+- Innocence Lost
+- Destroy the Dark Brotherhood
+- The Only Cure
+- The Whispering Door
+- Boethiah's Calling - Alternative Questline
+- The Heart of Dibella
+- Infiltration
+- Caught Red-Handed
+- The Breathing Abyss - New Quest added.
+- Before the End - New Quest added.
+- The Price of Art - New Quest added.
+	- This addition is inspired by the sequential random NPC encounters you'd find in Souls games, where such NPCs would be found in another location after your initial encounter with them. I find this particular mod to be a perfect addition to emulate such a feeling.
+- Once We Were Here - New Quest added.
+- Blood and Silver - Cidhna Mine Expanded added.
+- The Brotherhood of Old - Dark Brotherhood Continued added.
+
+EXTREMELY IMPORTANT NOTICE. PLEASE READ: You may find that the base Skyrim game lacks its own data files in this version. This is to prevent piracy and illegal distribution of the base game, as well as to prevent compilation issues. When you do download this list, make sure that you COPY-PASTE your base game Data folder contents (which are the Skyrim bsas and the such) from your Skyrim AE installation folder. Also make sure your game is at version 1.6.1170. The modlist WILL NOT WORK and WILL CRASH ON STARTUP if you do not have 1.6.1170. You can remedy the issue by verifying the integrity of your Steam files, then downgrading to 1.6.1170 using Reliquary. As for SKSE version, please use version 2.2.8, found on Nexus. Ensure that Skyrim is NOT in Program Files-anything for your safety. 
+
+Here is the link should you find yourself needing to downgrade your base game: https://www.nexusmods.com/site/mods/2188
+
+Lastly, have fun. We are sure you will enjoy the new content. 
+
+
+
 # Version 1.0.6 beta 9/5/2026 Update 
 
 - Forsworn Brutality added.
