@@ -26,7 +26,7 @@
 - Portal Strict Lights Patcher Framework AE added.
 	- Prevents many "Shadow Scene Node" crashes. Important bug fix addition.
 - Cinematic Conversation Camera added, replacing Improved Alternate Conversation Camera.
-- True Light is added to replace Lux. Too many patches to consider.
+- Relighting Skyrim is added to replace Lux. This reduced the modlist size by 40 GB, notably. 
 - Open Animation Replacer updated.
 - New Creature Animations added:
 	- Lurker
