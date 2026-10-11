@@ -1,3 +1,46 @@
+# Version 1.0.8 beta 10/11/2026 Update (CONTROLLER SUPPORT!!)
+
+- Relighting Skyrim replaced by Skyrim is Luminous.
+- True Directional Movement updated.
+- Skyshard Framework added.
+- Diverse Downed Logs - Base Object Swapper added.
+- Assorted Mesh Fixes updated.
+- High Quality Ivy added.
+- Mighty Beasts added (for Vampire Lords)
+- Divine Wardrobe added. (replacer version)
+- Calling the Watchmaker added.
+- Dreamcleaver - Erandur Overhaul added.
+	- Gives him more of a mysterious look than vanilla. What secrets are you hiding, sworn Priest of Mara?
+- Souls Quick Menu RE added.
+	- Companion mod Soulslike Controlmap for Skyrim AE and BFCO or MCO added. Controller support!
+- TrueHUD updated.
+- Wait Menu Redirected AE Support added.
+- Gore Follower updated. MAKE SURE YOU HAVEN'T ALREADY STARTED HIS QUEST YET.
+- DBVO 2 updated.
+- Eviscerate - Weapons Sounds Redesigned added.
+- Glowing Khajiit Eyes added.
+- Kozakowy's Female Vampire Armor Replacer added.
+- Evigheden - Serana Overhaul updated.
+- SCAR AE Support updated.
+- PALEGORE - Harrows of the Night added, for added ambient grimdark soundscapes.
+- Showracemenu Alternative added
+	- Dark Fantasy music added for the background.
+- Custom Skills - Skyshards added.
+- Vigilant Quest Mod updated.
+- DAc0da Quest mod updated.
+- Rustic Death Hound and Gargoyle Retexture added.
+- The Conflict Under The Crescent added.
+	- For those who wish to join the Silver Hand in favor of not becoming a werewolf to continue in the Companions questline. Opens more RP opportunities.
+- Dragon Roar Overhaul - Elden Ring Sound Replacer added.
+- Custodian  - Dwemer Animunculi SFX Overhaul added.
+- LEAF - Native Looping Equip Animation added.
+- Smite the Wicked - Eola's Namira Cult added.
+- Skyrim Performance Solution added.
+
+CS Preset updated to the latest Jiaye build from 10.03.2026. Please check in our Discord channels for the download file. Delete all traces of the previous Jiaye version if you haven't already.
+
+
+
 # Version 1.0.7 beta 9/20/2026 Update
 
 - Water Collision Crash Fix added.
