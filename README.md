@@ -17,6 +17,9 @@ Morkeskygge is not for the faint of heart. If you do not like Souls or Souls-lik
 - (optional but highly recommended) The latest version of Jiaye's Community Shaders AIO build, found off the Community Shaders Discord - for accurate appearances and intended atmosphere.
   - You will find my custom preset off of Jiaye's section of the Discord. This is subject to change as updates come along. 
 
+  You are to have obtained Skyrim Anniversary Edition version 1.6.1170 with the free Creations included. (Curios, Survival Mode, Saint and Seducers, Fishing)
+    - A full upgrade is yet to be a requirement. The chances are moderately high that the full upgrade that includes Alternative Armors and several quest mods may be needed for the post-beta version. 
+
   You are absolutely required to have a Nexus account in order to play this modlist. No exceptions. And maybe some wariness when you enter this twisted grimdark version of Skyrim. 
 # Installation
   You will find this modlist on Wabbajack listed as "Morkeskygge BETA" (in current stage). Hit the download button after you access the page. Should you have Nexus Premium, just sit back, grab a snack or two, and wait. 
