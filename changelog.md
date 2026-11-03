@@ -1,3 +1,33 @@
+#Version 1.0.9 beta 10/31/2026 Update (Halloween Edition)
+
+- (UWR) Unlocked Weapon Rotation added.
+- FLICK NG updated.
+- Racemenu Enhancer updated.
+- (DMMF) Dynamic Magic Modification Framework updated.
+- JContainers updated.
+- Havok Solver Crash Fix added.
+- RaceMenu Portraits added.
+- Runtime File Resolver added.
+- Skyrim Performance Solution updated. Removed.
+- Beyond Reach - NPCs Refined added.
+- Better Facial Animations added.
+- Flat World Map Framework updated.
+- Skyrim Mods Complex Optimizer - SMCO added.
+- Level Matters removed due to some boss enemies becoming massive damage sponges.
+- Dynamic Collision Adjustments added.
+- More Accurate Collision added.
+- Fluid Motion added.
+- Obi's Victorian Attire added.
+- Lifesworn Vestige - Arkay's Champion added, with SMP patch.
+- Obsidian Weathers and Seasons added, replacing NAT III due to the weather mod being hidden.
+	- CS add-on added.
+- Centinez's DragonTone PBR Post-Processing Preset added.
+  	- Based on Jiaye's latest preset, I've decided to use this preset as a new graphical base for Community Shaders.
+
+
+New CS Preset now included with the update. Please enjoy. 
+
+
 # Version 1.0.8 beta 10/11/2026 Update (CONTROLLER SUPPORT!!)
 
 - Relighting Skyrim replaced by Skyrim is Luminous.
