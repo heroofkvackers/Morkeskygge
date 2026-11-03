@@ -1,4 +1,4 @@
-#Version 1.0.9 beta 10/31/2026 Update (Halloween Edition)
+# Version 1.0.9 beta 10/31/2026 Update (Halloween Edition)
 
 - (UWR) Unlocked Weapon Rotation added.
 - FLICK NG updated.
