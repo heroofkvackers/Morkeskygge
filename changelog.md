@@ -8,7 +8,6 @@
 - Havok Solver Crash Fix added.
 - RaceMenu Portraits added.
 - Runtime File Resolver added.
-- Skyrim Performance Solution updated. Removed.
 - Beyond Reach - NPCs Refined added.
 - Better Facial Animations added.
 - Flat World Map Framework updated.
