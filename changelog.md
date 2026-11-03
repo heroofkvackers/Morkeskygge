@@ -25,7 +25,7 @@
   	- Based on Jiaye's latest preset, I've decided to use this preset as a new graphical base for Community Shaders.
 
 
-New CS Preset now included with the update. Please enjoy. 
+New CS Preset now included with the update. Please enjoy. Nexus update has also been pushed out. 
 
 
 # Version 1.0.8 beta 10/11/2026 Update (CONTROLLER SUPPORT!!)
