@@ -13,8 +13,6 @@
 	- Summon Portals
 - MU - Impact Framework added.
 - Cresty's Distant Mists added, replacing Volumetric Mists for compatibility with Obsidian Weathers.
-- Community Behaviors added (SIGNIFICANT ADDITION)
-	- Slightly reduces the volume of the modlist by superseding Animation Motion Revolution, Pandora Behavior Engine, and Behavior Data Injector. It also has its own XPMSE skeleton version.
 - Dynamic Impact added.
 - Bulwark Shield Sounds added.
 - Wearable Lanterns added.
