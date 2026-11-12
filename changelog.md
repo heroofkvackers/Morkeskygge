@@ -1,3 +1,36 @@
+# Version 1.0.9.3 beta 11/11/2026 Anniversary Update
+
+- Capital Windhelm Expansion added.
+	- Brings Windhelm closer to the original concept art.
+	- Patches included.
+- Spell Casting Reworked added.
+- Midnight Sun updated.
+- Kittytail's VFX Series added for vanilla spells.
+	- Drain Magic
+	- Lightning
+	- Fire
+	- Frost
+	- Summon Portals
+- MU - Impact Framework added.
+- Cresty's Distant Mists added, replacing Volumetric Mists for compatibility with Obsidian Weathers.
+- Community Behaviors added (SIGNIFICANT ADDITION)
+	- Slightly reduces the volume of the modlist by superseding Animation Motion Revolution, Pandora Behavior Engine, and Behavior Data Injector. It also has its own XPMSE skeleton version.
+- Dynamic Impact added.
+- Bulwark Shield Sounds added.
+- Wearable Lanterns added.
+- Pumpkin Spectres and Hallowfiends added, temporarily. (for the Halloween feel.)
+- A-Pose Bug Fix added.
+- Modified Optimal Gaze added.
+- Cloth and Crest added.
+- Skyrim Reversed-Z added.
+- DynDOLOD, and TexGen Outputs updated.
+
+
+Happy 15th Anniversary of Skyrim's original release. Sadly, I missed the 11:11 pm timeframe for the perfect synchronization.
+Please make sure to rerun PGPatcher and Pandora Behavior Engine. 
+
+
+
 # Version 1.0.9 beta 10/31/2026 Update (Halloween Edition)
 
 - (UWR) Unlocked Weapon Rotation added.
