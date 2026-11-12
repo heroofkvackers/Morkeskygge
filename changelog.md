@@ -1,4 +1,4 @@
-# Version 1.0.9.3 beta 11/11/2026 Anniversary Update
+# Version 1.1.0 alpha 11/11/2026 Anniversary Update
 
 - Capital Windhelm Expansion added.
 	- Brings Windhelm closer to the original concept art.
