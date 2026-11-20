@@ -1,3 +1,57 @@
+# Version 1.1.0 beta 11/19/2026
+
+- Character Select added.
+	- MMORPG-styled load game system. Pick your character from a shared lobby that puts your save games together. You can adjust their positions and poses freely.
+- Sonders Keyword Distribution Resources added.
+- Seamless Varied Male and Female Idles added.
+- DBVO 2 replaced by Dragonborn ReVoiced.
+	- All included voice packs updated for the new framework.
+- Audio Util added.
+- Frost Atronach SE added.
+- Flame Atronach SE added.
+	- Embers XD Patch included.
+- Obsidian Mountain Fogs removed. Forgot to remove from older releases.
+- Disabled Autosave and Scripted Autosave added.
+- DbReV Player Character Gestures added.
+- DbReV Gesture Bridge added.
+- Realm of Lorkhan added, replacing Alternative Perspective.
+	- "Hunter's Dream" aesthetic.
+- Dual Wielding Unlocker added.
+- Dagger - A Font Overhaul added.
+	- Replaces the UI font with something more gothic dark fantasy.
+- Kittytail's VFX Series added, continued:
+	- Healing
+	- Dragon Breath
+	- Piercing Expert Spells
+	- Slow Time Edit
+- The Grand Paladin Remake added.
+- The Midnight Sun updated to 2.0.
+	- Requires new save.
+- Ground Fog added.
+- Arms Crossed Behavior Fix integrated.
+- Pride of Cuhlecain - A Weynon Stones Overhaul added.
+- Shor's Bones - Window Bars for the Hall of Valor added.
+- Stonehills - Overhaul added.
+- One Click Power Attack AE added.
+	- On keyboard + mouse, V key can be assigned to left hand magic by default.
+- Cathedral 3D Rocks added.
+	- Darker variant.
+- COtR Expressive Facial Animation for Male and Female added.
+- COtR + Sacrosanct Patch added.
+- Vanilla Scars - COtR patch added.
+- PALEGORE - Rag Thralls Lovecraftian Plague Cult added.
+- Folkvangr added, replacing Merethic Grasslands.
+- Spaghetti's Riften added.
+- Elden Rim x DS3 Dual Katana MCO Moveset added.
+- Animation Motion Fix added.
+- Stagger Effect Fix updated.
+- Apocrypha Tentacle Combat added.
+- DynDOLOD, xLODGen, and TexGen Outputs updated. 
+
+As mentioned in one of the mods above, this update is NOT SAVE-SAFE and you'll require a new save for your character. Nexus version is also updated.
+
+
+
 # Version 1.1.0 alpha 11/11/2026 Anniversary Update
 
 - Capital Windhelm Expansion added.
